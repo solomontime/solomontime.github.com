@@ -1,0 +1,6 @@
+#+TITLE: test
+#+DATE: 2013-07-25
+#+SETUPFILE: ~/sys/lib/org-sty/octopress.org
+#+JEKYLL_LAYOUT: post
+#+JEKYLL_CATEGORIES: 
+#+JEKYLL_PUBLISHED: true
